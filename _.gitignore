@@ -1,0 +1,11 @@
+# сессии и секреты
+*.session
+*.session-journal
+.env
+# база с данными маркета
+*.db
+*.db-wal
+*.db-shm
+# python
+__pycache__/
+.venv/
